@@ -6,6 +6,9 @@
 
 <p align="center">
 
-  <img src="https://github.com/aliashfak178/PICS/blob/main/PICS/mp3.JPG" alt="Coder JPG" width="500" height="700">
+ 1. Run the exe file
+ 2. Need to select the file to play
+ 3. then play button plays the song
+ 4. Other buttons navigate through other songs
   
 </p>
